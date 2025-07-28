@@ -21,12 +21,15 @@ Desenvolvedor Full Stack com **2+ anos de experiência** criando sistemas corpor
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ### 🎨 Frontend  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
 ### 🗃️ Bancos de Dados  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ### 🚀 DevOps  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -42,18 +45,34 @@ Desenvolvedor Full Stack com **2+ anos de experiência** criando sistemas corpor
 ## 🏆 Projetos Destacados
 
 ### 🏢 Intranet Corporativa  
-[![Intranet](https://github-readme-stats.vercel.app/api/pin/?username=jaoandtheniners&repo=intranet-corporativa&theme=radical)](https://github.com/jaoandtheniners/intranet-corporativa)  
 Portal unificado com 12+ módulos  
 🚀 Redução de 25% no tempo de acesso à informação  
 🛠 Stack: Laravel, React, MySQL, Docker
 
-### 📈 Sistema de Indicadores  
-[![Indicadores](https://github-readme-stats.vercel.app/api/pin/?username=jaoandtheniners&repo=sistema-indicadores&theme=radical)](https://github.com/jaoandtheniners/sistema-indicadores)  
+### 📈 Sistema de Indicadores 
 Dashboard em tempo real para tomada de decisão  
 📊 Melhoria de 27% na eficiência gerencial  
 🛠 Stack: Laravel API, Next.js, Chart.js
 
 ## 📌 Principais Habilidades
+
+### 💻 Backend
+- Linguagens: PHP, Python, Java, JavaScript, TypeScript
+- Frameworks: Laravel, Express, NestJS
+- Padrões: Clean Architecture, Repository, Strategy
+
+### 🎨 Frontend
+- Linguagens: JavaScript, TypeScript
+- Frameworks: React, Next.js
+- Estado: Context API, Redux
+- Estilização: TailwindCSS, SASS
+
+### ⚙️ DevOps e Sistemas
+- Docker, Jenkins, AWS (EC2, S3), Linux
+
+### 🧠 Soft Skills
+- Liderança técnica, Comunicação clara, Resolução de problemas complexos
+
 
 ```js
 const skills = {
@@ -100,13 +119,12 @@ const skills = {
 
 ## 📫 Vamos Conversar!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaoandtheniners)  
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovitorssilva0@gmail.com)  
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55SEUNUMERO)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joão-vitor-dos-s-da-silva-147955273)  
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nerdario.jv.jv@gmail.com)  
 
 ![Snake animation](https://github.com/jaoandtheniners/jaoandtheniners/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ### 🎧 Atualmente ouvindo:
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=SEU_USER&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=SEU_USER&redirect=true)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=SEU_USER&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=s53w8wdnfuqwge9j3os6laugt&redirect=true)
