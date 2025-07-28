@@ -73,29 +73,6 @@ Dashboard em tempo real para tomada de decisão
 ### 🧠 Soft Skills
 - Liderança técnica, Comunicação clara, Resolução de problemas complexos
 
-
-```js
-const skills = {
-  backend: {
-    languages: ["PHP", "JavaScript", "TypeScript"],
-    frameworks: ["Laravel", "Express", "NestJS"],
-    databases: ["MySQL", "PostgreSQL", "Redis"],
-    patterns: ["Clean Architecture", "Repository", "Strategy"]
-  },
-  frontend: {
-    frameworks: ["React", "Next.js"],
-    stateManagement: ["Context API", "Redux"],
-    styling: ["Tailwind", "SASS"]
-  },
-  devOps: ["Docker", "Jenkins", "AWS EC2/S3"],
-  softSkills: [
-    "Liderança técnica", 
-    "Comunicação clara", 
-    "Resolução de problemas complexos"
-  ]
-};
-```
-
 ## 🌟 Destaques Profissionais
 
 <details>
@@ -127,4 +104,4 @@ const skills = {
 ---
 
 ### 🎧 Atualmente ouvindo:
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=SEU_USER&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=s53w8wdnfuqwge9j3os6laugt&redirect=true)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=s53w8wdnfuqwge9j3os6laugt&cover_image=true&theme=novatorem&show_offline=true)](https://open.spotify.com/user/s53w8wdnfuqwge9j3os6laugt)
