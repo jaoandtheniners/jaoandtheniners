@@ -105,3 +105,4 @@ Dashboard em tempo real para tomada de decisão
 
 ### 🎧 Atualmente ouvindo:
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=s53w8wdnfuqwge9j3os6laugt&cover_image=true&theme=novatorem&show_offline=true)](https://open.spotify.com/user/s53w8wdnfuqwge9j3os6laugt)
+
