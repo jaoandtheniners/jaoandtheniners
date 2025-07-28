@@ -52,7 +52,7 @@ Dashboard em tempo real para tomada de decisão
 
 ### 💻 Backend
 - Linguagens: PHP, Python, Java, JavaScript, TypeScript
-- Frameworks: Laravel, Express, NestJS
+- Frameworks: Laravel, Express, NestJS, NodeJS
 - Padrões: Clean Architecture, Repository, Strategy
 
 ### 🎨 Frontend
