@@ -6,11 +6,13 @@
 
 Desenvolvedor Full Stack com **2+ anos de experiência** criando sistemas corporativos complexos que impactam diretamente nos resultados das empresas. Apaixonado por resolver problemas reais através de código limpo e arquiteturas escaláveis.
 
-```diff
+
 + 🔭 Atualmente trabalhando na Miriri Alimentos e Bioenergia
 + 🌱 Aprendendo Arquitetura de Microsserviços e NestJS
 + 💡 Foco em: APIs robustas, performance de queries e UX eficiente
 ! ⚡ Fato divertido: Comecei como Jovem Aprendiz e em 1 ano me tornei Dev Pleno
+
+
 
 🛠 Stack Principal
 🔧 Backend
