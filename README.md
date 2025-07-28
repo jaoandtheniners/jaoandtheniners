@@ -38,8 +38,8 @@ Desenvolvedor Full Stack com **2+ anos de experiência** criando sistemas corpor
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaoandtheniners&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaoandtheniners&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaoandtheniners&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaoandtheniners&layout=compact&langs_count=7&theme=radical" alt="Top Langs"/>
 </div>
 
 ## 🏆 Projetos Destacados
