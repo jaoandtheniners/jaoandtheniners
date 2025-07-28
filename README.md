@@ -35,12 +35,6 @@ Desenvolvedor Full Stack com **2+ anos de experiência** criando sistemas corpor
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaoandtheniners&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaoandtheniners&layout=compact&langs_count=7&theme=radical" alt="Top Langs"/>
-</div>
 
 ## 🏆 Projetos Destacados
 
