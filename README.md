@@ -59,7 +59,7 @@ Gestão completa de solicitações internas
 ### 💻 Backend
 - Linguagens: PHP, Python, Java
 - Frameworks: Laravel, Express, NestJS, NodeJS
-- Padrões: Clean Architecture, Repository, Strategy
+- Padrões: Clean Architecture, SOLID, Controllers, Services, Repository, DTOs, Patterns, Layers
 
 ### 🎨 Frontend
 - Linguagens: JavaScript, TypeScript
