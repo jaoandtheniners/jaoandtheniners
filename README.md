@@ -40,13 +40,19 @@ Desenvolvedor Full Stack com **2+ anos de experiência** criando sistemas corpor
 
 ### 🏢 Intranet Corporativa  
 Portal unificado com 12+ módulos  
-🚀 Redução de 25% no tempo de acesso à informação  
+🚀 Redução no tempo de acesso à informação  
 🛠 Stack: Laravel, React, MySQL, Docker
 
-### 📈 Sistema de Indicadores 
+### 📈 Sistema de Indicadores  
 Dashboard em tempo real para tomada de decisão  
-📊 Melhoria de 27% na eficiência gerencial  
+📊 Melhoria na eficiência gerencial  
 🛠 Stack: Laravel API, Next.js, Chart.js
+
+### 🎫 Sistema de Chamados  
+Gestão completa de solicitações internas  
+⏱ Redução no tempo de resolução  
+😊 Aumento na satisfação dos usuários  
+🛠 Stack: Laravel, React, Next.js, MySQL, Jenkins
 
 ## 📌 Principais Habilidades
 
