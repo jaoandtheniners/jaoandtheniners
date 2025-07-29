@@ -57,7 +57,7 @@ Gestão completa de solicitações internas
 ## 📌 Principais Habilidades
 
 ### 💻 Backend
-- Linguagens: PHP, Python, Java, JavaScript, TypeScript
+- Linguagens: PHP, Python, Java
 - Frameworks: Laravel, Express, NestJS, NodeJS
 - Padrões: Clean Architecture, Repository, Strategy
 
