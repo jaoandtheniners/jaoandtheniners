@@ -52,7 +52,7 @@ Dashboard em tempo real para tomada de decisão
 Gestão completa de solicitações internas  
 ⏱ Redução no tempo de resolução  
 😊 Aumento na satisfação dos usuários  
-🛠 Stack: Laravel, React, Next.js, MySQL, Jenkins
+🛠 Stack: Laravel, React, Next.js, MySQL
 
 ## 📌 Principais Habilidades
 
