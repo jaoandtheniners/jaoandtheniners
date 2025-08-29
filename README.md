@@ -8,7 +8,7 @@ Desenvolvedor Full Stack com **2+ anos de experiência** criando sistemas corpor
 
 ```diff
 + 🔭 Atualmente trabalhando na Miriri Alimentos e Bioenergia
-+ 🌱 Aprendendo Arquitetura de Microsserviços, AWS, e NestJS
++ 🌱 Aprendendo Arquitetura de Microsserviços, AWS, NestJS, LLMs e Agentes de IA
 + 💡 Foco em: APIs robustas, performance de queries e UX eficiente
 ! ⚡ Fato divertido: Comecei como Jovem Aprendiz e em pouco tempo me tornei Dev Pleno
 ```
