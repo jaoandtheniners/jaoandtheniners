@@ -1,11 +1,4 @@
-```
-╔══════════════════════════════════════════════════════════╗
-║  ~/joao-vitor $ whoami                                   ║
-║  > backend dev · sistemas corporativos · João Pessoa, PB ║
-║  ~/joao-vitor $ cat status.txt                           ║
-║  > open to work ●                                        ║
-╚══════════════════════════════════════════════════════════╝
-```
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=22D3EE&width=435&lines=Desenvolvedor+Backend+%7C+FullStack;Especialista+em+Laravel+e+React;Transformo+c%C3%B3digo+em+solu%C3%A7%C3%B5es+reais)](https://git.io/typing-svg)
 
 # João Vitor da Silva
 
@@ -43,8 +36,6 @@ Plataforma corporativa do zero: **Laravel + React** integrando Protheus ERP, PIM
 - `Intranet Corporativa` — 12+ módulos unificados. 25% de redução no tempo de acesso à informação
 - `Sistema de Auditoria` — web + mobile para auditoria interna em campo com checklists e histórico auditável
 - `Sistema de Gestão à Vista` — painel de acompanhamento de auditorias em tempo real
-- `Módulo PCO` — funil orçamentário 4 estados sincronizado com Protheus *(em desenvolvimento)*
-- `OS Administrativas` — máquina de estados 6 fases com rastreabilidade de SLA *(em desenvolvimento)*
 
 ### Consultas Automáticas — integração event-driven Protheus → SGM
 ADVPL dispara evento → Job Redis processa → SGM sincroniza em tempo real.
@@ -63,10 +54,9 @@ Agente de IA integrado ao SGM: resumos de chamados, pendências, leitura de indi
 
 | Projeto | Resultado |
 |---|---|
-| Sistema de Chamados | ↓ tempo médio de resolução · ↑ 40% satisfação dos usuários |
-| Indicadores de UGBs | ↑ 27% qualidade decisória · ↓ 10% atrasos operacionais |
-| Intranet Corporativa | ↓ 25% tempo de acesso à informação |
-| Consultas Automáticas | 100% automatizado · 0 intervenção humana |
+| Sistema de Chamados | ↓ tempo médio de resolução · ↑ satisfação dos usuários |
+| Indicadores de UGBs | ↑ qualidade decisória · ↓ atrasos operacionais |
+| Intranet Corporativa | ↓ tempo de acesso à informação |
 
 ---
 
@@ -82,13 +72,13 @@ Projetos acadêmicos relevantes: XGBoost com GridSearchCV + StratifiedKFold · 6
 
 ## Atualmente estudando
 
-`Arquitetura de Microsserviços` · `AWS` · `LLMs e Agentes de IA` · `NestJS`
+`Arquitetura de Microsserviços` · `AWS` · `LLMs e Agentes de IA` · `Arquitetura de Soluções`
 
 ---
 
 ## Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/joão-vitor-dos-s-da-silva-147955273)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaovitorjv)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nerdario.jv.jv@gmail.com)
 [![Portfólio](https://img.shields.io/badge/Portfólio-111827?style=flat-square&logo=github&logoColor=white)](https://jaoandtheniners.github.io/portfolio)
 
