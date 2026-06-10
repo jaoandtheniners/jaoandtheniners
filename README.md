@@ -12,16 +12,27 @@ Especialidade real: **PHP/Laravel para APIs escaláveis**, integração com ERP 
 
 ## Stack
 
-```php
-$stack = [
-    'backend'     => ['PHP', 'Laravel', 'Symfony', 'REST APIs', 'PHPUnit'],
-    'banco'       => ['MySQL', 'PostgreSQL', 'Redis', 'MariaDB'],
-    'devops'      => ['Docker', 'Jenkins', 'GitFlow', 'Linux', 'CI/CD'],
-    'frontend'    => ['React.js', 'Next.js', 'TypeScript', 'JavaScript'],
-    'integrações' => ['TOTVS Protheus', 'ADVPL', 'ELO Digital Office', 'REST/SOAP'],
-    'arquitetura' => ['SOLID', 'Clean Code', 'Repository Pattern', 'Event-driven'],
-];
-```
+### 🔧 Backend  
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+### 🎨 Frontend  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+
+### 🗃️ Bancos de Dados  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+### 🚀 DevOps  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+
+
 
 ---
 
