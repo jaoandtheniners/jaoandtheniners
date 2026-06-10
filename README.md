@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=22D3EE&width=435&lines=Desenvolvedor+Backend+%7C+FullStack;Especialista+em+Laravel+e+React;Transformo+c%C3%B3digo+em+solu%C3%A7%C3%B5es+reais)](https://git.io/typing-svg)
 
-# João Vitor da Silva
+# João Vitor dos Santos da Silva
 
 **Desenvolvedor Backend** — construindo sistemas que resolvem problemas reais em produção.
 
