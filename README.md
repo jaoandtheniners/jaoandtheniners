@@ -1,104 +1,97 @@
-# 👋 Olá, eu sou João Vitor dos Santos da Silva!
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=22D3EE&width=435&lines=Desenvolvedor+Backend+%7C+FullStack;Especialista+em+Laravel+e+React;Transformo+c%C3%B3digo+em+solu%C3%A7%C3%B5es+reais)](https://git.io/typing-svg)
-
-## 🚀 Sobre Mim
-
-Desenvolvedor Full Stack com **2+ anos de experiência** criando sistemas corporativos complexos que impactam diretamente nos resultados das empresas. Apaixonado por resolver problemas reais através de código limpo e arquiteturas escaláveis.
-
-```diff
-+ 🔭 Atualmente trabalhando na Miriri Alimentos e Bioenergia
-+ 🌱 Aprendendo Arquitetura de Microsserviços, AWS, NestJS, LLMs e Agentes de IA
-+ 💡 Foco em: APIs robustas, performance de queries e UX eficiente
-! ⚡ Fato divertido: Comecei como Jovem Aprendiz e em pouco tempo me tornei Dev Pleno
+```
+╔══════════════════════════════════════════════════════════╗
+║  ~/joao-vitor $ whoami                                   ║
+║  > backend dev · sistemas corporativos · João Pessoa, PB ║
+║  ~/joao-vitor $ cat status.txt                           ║
+║  > open to work ●                                        ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
-## 🛠 Stack Principal
+# João Vitor da Silva
 
-### 🔧 Backend  
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+**Desenvolvedor Backend** — construindo sistemas que resolvem problemas reais em produção.
 
-### 🎨 Frontend  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+Mais de 2 anos e meio desenvolvendo a plataforma corporativa da [Miriri Alimentos e Bioenergia](https://www.miriri.com.br), uma das maiores usinas sucroenergéticas da Paraíba. Comecei como estagiário, fui promovido a Júnior e depois a Pleno — tudo no mesmo sistema, com responsabilidade crescente sobre cada decisão de arquitetura.
 
-### 🗃️ Bancos de Dados  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+Especialidade real: **PHP/Laravel para APIs escaláveis**, integração com ERP TOTVS Protheus via ADVPL e automação de processos críticos com Redis/Jobs. Não só executo tarefas — entendo o problema do usuário final antes de escrever a primeira linha.
 
-### 🚀 DevOps  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+---
 
+## Stack
 
-## 🏆 Projetos Destacados
+```php
+$stack = [
+    'backend'     => ['PHP', 'Laravel', 'Symfony', 'REST APIs', 'PHPUnit'],
+    'banco'       => ['MySQL', 'PostgreSQL', 'Redis', 'MariaDB'],
+    'devops'      => ['Docker', 'Jenkins', 'GitFlow', 'Linux', 'CI/CD'],
+    'frontend'    => ['React.js', 'Next.js', 'TypeScript', 'JavaScript'],
+    'integrações' => ['TOTVS Protheus', 'ADVPL', 'ELO Digital Office', 'REST/SOAP'],
+    'arquitetura' => ['SOLID', 'Clean Code', 'Repository Pattern', 'Event-driven'],
+];
+```
 
-### 🏢 Intranet Corporativa  
-Portal unificado com 12+ módulos  
-🚀 Redução no tempo de acesso à informação  
-🛠 Stack: Laravel, React, MySQL, Docker
+---
 
-### 📈 Sistema de Indicadores  
-Dashboard em tempo real para tomada de decisão  
-📊 Melhoria na eficiência gerencial  
-🛠 Stack: Laravel API, Next.js, Chart.js
+## O que estou construindo
 
-### 🎫 Sistema de Chamados  
-Gestão completa de solicitações internas  
-⏱ Redução no tempo de resolução  
-😊 Aumento na satisfação dos usuários  
-🛠 Stack: Laravel, React, Next.js, MySQL
+### SGM — Sistema de Gestão da Miriri
+Plataforma corporativa do zero: **Laravel + React** integrando Protheus ERP, PIMS e ELO Digital Office. 16+ projetos entregues ou em andamento — do sistema de chamados ao controle orçamentário.
 
-## 📌 Principais Habilidades
+**Módulos principais:**
+- `Sistema de Chamados v1 & v2` — SLA dinâmico, dashboard BI, fluxos por setor. Redução no tempo de resolução e 40% de aumento na satisfação dos usuários
+- `Sistema de Indicadores de UGBs` — KPIs em tempo real com identificação automática de gargalos
+- `Intranet Corporativa` — 12+ módulos unificados. 25% de redução no tempo de acesso à informação
+- `Sistema de Auditoria` — web + mobile para auditoria interna em campo com checklists e histórico auditável
+- `Sistema de Gestão à Vista` — painel de acompanhamento de auditorias em tempo real
+- `Módulo PCO` — funil orçamentário 4 estados sincronizado com Protheus *(em desenvolvimento)*
+- `OS Administrativas` — máquina de estados 6 fases com rastreabilidade de SLA *(em desenvolvimento)*
 
-### 💻 Backend
-- Linguagens: PHP, Python, Java
-- Frameworks: Laravel, Express, NestJS, NodeJS
-- Padrões: Clean Architecture, SOLID, Controllers, Services, Repository, DTOs, Patterns, Layers
+### Consultas Automáticas — integração event-driven Protheus → SGM
+ADVPL dispara evento → Job Redis processa → SGM sincroniza em tempo real.
+Processo que antes era manual e crítico: hoje roda de forma autônoma e contínua, com rastreabilidade de cada execução.
 
-### 🎨 Frontend
-- Linguagens: JavaScript, TypeScript
-- Frameworks: React, Next.js
-- Estado: Context API, Redux
-- Estilização: TailwindCSS, SASS
+### Integração ELO Digital Office ↔ Chamados
+Aprovações no ELO disparam automaticamente ações no SGM via ELO JS Scripts + endpoints Laravel.
+Fluxo documental e operacional unificados — zero etapas manuais.
 
-### ⚙️ DevOps e Sistemas
-- Docker, Jenkins, AWS (EC2, S3), Linux
+### Zé Fermento IA *(em desenvolvimento)*
+Agente de IA integrado ao SGM: resumos de chamados, pendências, leitura de indicadores, consulta a procedimentos e suporte contextual aos usuários. Reduz a curva de aprendizado do sistema sem precisar de treinamento extenso.
 
-### 🧠 Soft Skills
-- Liderança técnica, Comunicação clara, Resolução de problemas complexos
+---
 
-## 🌟 Destaques Profissionais
+## Impacto mensurável
 
-<details>
-<summary>📈 Impactos Mensuráveis</summary>
+| Projeto | Resultado |
+|---|---|
+| Sistema de Chamados | ↓ tempo médio de resolução · ↑ 40% satisfação dos usuários |
+| Indicadores de UGBs | ↑ 27% qualidade decisória · ↓ 10% atrasos operacionais |
+| Intranet Corporativa | ↓ 25% tempo de acesso à informação |
+| Consultas Automáticas | 100% automatizado · 0 intervenção humana |
 
-- 🔹 25% redução no tempo de acesso à informação (Intranet)  
-- 🔹 27% melhoria na tomada de decisão (Sistema de Indicadores)  
-- 🔹 30% redução em retrabalhos (Sistema Cliente-Fornecedor)  
-- 🔹 40% aumento na satisfação do usuário (Sistema de Chamados)  
+---
 
-</details>
+## Formação
 
-<details>
-<summary>🏅 Certificações</summary>
+**Bacharelado em Ciência da Computação** — Unipê *(6º período)*
 
-- 🎓 Domine Web - 20 Cursos (Udemy)  
-- 🎓 Desenvolvimento Web Avançado com PHP, Laravel e Vue.JS (Udemy)  
-- 🎓 Bacharelado em Ciência da Computação (Unipê - Cursando)  
+Projetos acadêmicos relevantes: XGBoost com GridSearchCV + StratifiedKFold · 60 experimentos KNN no dataset Spotify · API REST com Symfony 6, Doctrine ORM e JWT
 
-</details>
+**TCC em desenvolvimento:** Ferramenta de IA para simulados diagnósticos — auxilia professores na identificação de pontos fortes e dificuldades de aprendizagem dos alunos.
 
-## 📫 Vamos Conversar!
+---
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joão-vitor-dos-s-da-silva-147955273)  
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nerdario.jv.jv@gmail.com)  
+## Atualmente estudando
+
+`Arquitetura de Microsserviços` · `AWS` · `LLMs e Agentes de IA` · `NestJS`
+
+---
+
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/joão-vitor-dos-s-da-silva-147955273)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nerdario.jv.jv@gmail.com)
+[![Portfólio](https://img.shields.io/badge/Portfólio-111827?style=flat-square&logo=github&logoColor=white)](https://jaoandtheniners.github.io/portfolio)
+
+---
 
 ![Snake animation](https://github.com/jaoandtheniners/jaoandtheniners/blob/output/github-contribution-grid-snake.svg)
-
-
